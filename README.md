@@ -4,7 +4,7 @@
 
 ## R Praveen Kumar's GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-kumar-R-1998&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-kumar-R-1998&theme=radical)
 
 
 ![R Praveen Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveen-Kumar-R-1998&show_icons=true&theme=radical)
