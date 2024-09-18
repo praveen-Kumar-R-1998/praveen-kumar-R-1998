@@ -1,6 +1,6 @@
 # Hey! I'm R Praveen Kumar. 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khushboo%20Verma-blue)](https://www.linkedin.com/in/khushbooverma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khushboo%20Verma-blue)](https://www.linkedin.com/in/r-praveen-kumar-3767521a6/)
 
 
 <!--
