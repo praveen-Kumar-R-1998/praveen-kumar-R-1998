@@ -1,5 +1,8 @@
 # Hey! I'm R Praveen Kumar. 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khushboo%20Verma-blue)](https://www.linkedin.com/in/khushbooverma)
+
+
 <!--
 **praveen-Kumar-R-1998/praveen-kumar-R-1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
