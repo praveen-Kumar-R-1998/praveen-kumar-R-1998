@@ -1,4 +1,4 @@
-# Hey! I'm R Praveen Kumar. 👋
+# Hey! I'm R Praveen Kumar. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-R%20Praveen%20Kumar-blue)](https://www.linkedin.com/in/r-praveen-kumar-3767521a6/)
 
