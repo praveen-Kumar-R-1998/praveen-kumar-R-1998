@@ -1,22 +1,8 @@
 # Hey! I'm R Praveen Kumar. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-R%20Praveen%20Kumar-blue)](https://www.linkedin.com/in/r-praveen-kumar-3767521a6/)
-
 ## R Praveen Kumar's GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-kumar-R-1998&theme=radical)
-
-
-![R Praveen Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveen-Kumar-R-1998&show_icons=true&theme=radical)
-
-
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
-
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-kumar-R-1998&theme=tokyonight)
+![R Praveen Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveen-Kumar-R-1998&show_icons=true&theme=tokyonight)
 
 <!--
 **praveen-Kumar-R-1998/praveen-kumar-R-1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
